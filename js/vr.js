@@ -27,3 +27,7 @@ const createNewScene = function (canvasId) {
 
 createNewScene('renderCanvas0'); //Call the createScene function
 createNewScene('renderCanvas1'); //Call the createScene function
+createNewScene('renderCanvas2');
+createNewScene('renderCanvas3');
+createNewScene('renderCanvas4');
+createNewScene('renderCanvas5');
