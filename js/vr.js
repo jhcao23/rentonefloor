@@ -25,6 +25,6 @@ const createNewScene = function (canvasId) {
     });
 };
 
-for (let i = 0; i <= 5; i++) {
+for (let i = 0; i <= 7; i++) {
     createNewScene(`renderCanvas${i}`);
 }
