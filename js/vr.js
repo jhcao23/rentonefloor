@@ -36,7 +36,7 @@
                 return theScene;
             };
 
-            const scene = createScene('../360photo.jpg', engine); //Call the createScene function
+            const scene = createScene('../2nd_floor.jpg', engine); //Call the createScene function
             const scene1 = createScene('../361.jpg', engine1); //Call the createScene function
             // const scene2 = createScene('./360photo.jpg', engine2); //Call the createScene function
             // const scene3 = createScene('./360photo.jpg', engine3); //Call the createScene function
